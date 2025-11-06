@@ -43,6 +43,6 @@ This project aims to predict whether a customer will successfully repay a loan b
 --- 
 ✅ Author
 
-Anand Mehto
-Aspiring Data Scientist
-Python | Machine Learning | SQL | Streamlit
+- Anand Mehto
+- Aspiring Data Scientist
+- Python | Machine Learning | SQL | Streamlit
