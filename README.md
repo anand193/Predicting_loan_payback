@@ -3,6 +3,9 @@
 This project aims to predict whether a customer will successfully repay a loan based on financial, demographic, and credit-related attributes. The solution uses a trained Machine Learning model integrated into an interactive Streamlit application, enabling real-time predictions with a user-friendly interface.
 
 ---
+![Project Logo](https://img.shields.io/badge/Streamlit-Deployed-green)
+**Deployed Application:** [Visit the App](https://predictingloanpayback-bodvy5a3e5hezdyscmajw2.streamlit.app/)
+---
 
 ✅ Project Summary
 
